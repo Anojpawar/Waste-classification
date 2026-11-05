@@ -4,6 +4,8 @@ A machine learning web app that predicts a waste category — **Plastic, Paper, 
 Metal, or Organic** — from six measured characteristics, using a Random Forest
 classifier and an interactive Streamlit dashboard.
 
+**Live demo:** https://waste-classification-cdgd.onrender.com
+
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Anojpawar/Waste-classification)
 
 ## Features
